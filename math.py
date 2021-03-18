@@ -8,5 +8,5 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 
-def div(a,b):
+def div_premium(a,b):
     return a/b

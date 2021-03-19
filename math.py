@@ -8,5 +8,5 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 
-def div_free(a,b):
+def div_new(a,b):
     return a/b
